@@ -1,6 +1,9 @@
 ### Date created
 8th November
+<<<<<<< HEAD
 
+=======
+>>>>>>> Refactoring
 ### Project Title
 Bikeshare
 

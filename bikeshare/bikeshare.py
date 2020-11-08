@@ -23,7 +23,7 @@ def get_filters():
     
     
     while True: 
-        city = input("Would you like Chicago, New York City or Washington? ").lower().strip()
+        city = input("Would you like Chicago, New York City or Washington? Type city name").lower().strip()
     
         if city in CITY_DATA:     
             print('You chose {}'.format(city))
