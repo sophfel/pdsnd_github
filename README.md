@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+8th November
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+To see stats about bike hire in Chicago, New York City and Washington
 
 ### Files used
-Include the files used
+Bikeshare.py
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity project
